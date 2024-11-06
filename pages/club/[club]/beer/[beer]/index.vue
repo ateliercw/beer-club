@@ -11,7 +11,7 @@
       <div class="flex gap-4 group-[.is-fullscreen]:h-full w-full" :class="isEven ? 'flex-row' : 'flex-row-reverse'">
         <Transition :name="isEven ? 'slide-right' : 'slide-left'">
           <div v-if="appeared == true" class="flex flex-col w-3/5 gap-4 items-start group-[.is-fullscreen]:items-center">
-            <h1 class="w-full text-5xl leading-tight font-black font-serif text-transparent bg-clip-text bg-gradient-to-b to-amber-900 from-amber-600" :class="isShort ? 'group-[.is-fullscreen]:text-[20vh] group-[.is-fullscreen]:leading-[22vh]' : 'group-[.is-fullscreen]:text-[10vh] group-[.is-fullscreen]:leading-[11vh]'">{{ beer.name }}</h1>
+            <h1 class="w-full text-5xl leading-tight font-black font-serif text-transparent bg-clip-text bg-gradient-to-b to-amber-900 from-amber-600" :class="beer.name.length < 20 ? 'group-[.is-fullscreen]:text-[20vh] group-[.is-fullscreen]:leading-[22vh]' : 'group-[.is-fullscreen]:text-[10vh] group-[.is-fullscreen]:leading-[11vh]'">{{ beer.name }}</h1>
             <div id="stats" class="grid grid-cols-[max-content_max-content] place-content-start group-[.is-fullscreen]:place-content-center group-[.is-fullscreen]:grow group-[.is-fullscreen]:text-[2vw] group-[.is-fullscreen]:leading-[2.2vw] text-amber-900 odd:*:text-amber-700 odd:*:text-right even:*:pl-[1vw] odd:*:pr-[1vw] odd:*:border-r-2 *:border-amber-300 max-w-fit">
               <p>Brewery</p>
               <p>{{ beer.brewery }}</p>
@@ -50,8 +50,6 @@ const appeared = ref(false);
 const isEven = parseInt(route.params.beer) % 2 == 0;
 
 const { data: beer } = await useFetch(`/api${route.fullPath}`);
-
-const isShort = beer.value.name.length < 20;
 
 const onKeyUp = (event) => {
   if (event.key == "ArrowRight") {
