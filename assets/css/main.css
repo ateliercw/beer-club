@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.standard-button {
+  @apply text-amber-600 hover:text-amber-700 hover:scale-125 duration-100 ease-in;
+}
+
+:fullscreen {
+  @apply bg-gradient-to-b from-amber-100 to-amber-200 h-screen w-screen p-[5vh];
+}
+
+@view-transition {
+  navigation: auto;
+}

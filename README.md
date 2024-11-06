@@ -1,2 +1,3 @@
-# beer-club
-The (simple) site for Shortcut beer club presentations
+# Beer Club Slides
+
+This is a basic Nuxt.js app that runs slides for beer club
