@@ -1,5 +1,5 @@
 <template>
-  <button class="standard-button group-[.is-fullscreen]:hidden flex flex-row gap-1 items-center" @click="requestFullScreen">
+  <button class="standard-button group-[.is-fullscreen]:hidden flex flex-row gap-1 items-center" type="button" @click="requestFullScreen">
     <Icon name="lucide:presentation" />
     Present
   </button>

@@ -14,13 +14,13 @@ export default defineEventHandler((event: any) => {
 
   let prev: String | null;
   if (beerId > 1) {
-    prev = `/club/${clubId}/beer/${beerId - 1}`;
+    prev = `/club/${clubId}/beer/${beerId - 1}/`;
   } else {
     prev = null;
   }
   let next: String | null;
   if (beerId < club.beers.length) {
-    next = `/club/${clubId}/beer/${beerId + 1}`;
+    next = `/club/${clubId}/beer/${beerId + 1}/`;
   } else {
     next = null;
   }

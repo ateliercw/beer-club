@@ -51,6 +51,10 @@ const isEven = parseInt(route.params.beer) % 2 == 0;
 
 const { data: beer } = await useFetch(`/api${route.fullPath}`);
 
+useHead({
+  title: beer.value.name,
+});
+
 const onKeyUp = (event) => {
   if (event.key == "ArrowRight") {
     navigateTo(beer.value.next || beer.value.club);
@@ -68,7 +72,6 @@ onMounted(() => {
 onBeforeRouteUpdate((to, from, next) => {
   appeared.value = false;
   setTimeout(next, 350);
-  // next();
 });
 </script>
 

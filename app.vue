@@ -18,6 +18,7 @@
 
 <script setup lang="ts">
 useHead({
+  title: "Beer Club",
   bodyAttrs: {
     class: "group bg-amber-100 text-amber-800",
   },

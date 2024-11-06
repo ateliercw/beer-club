@@ -3,7 +3,14 @@ export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   css: ["~/assets/css/main.css"],
   devtools: { enabled: true },
-  modules: ["@nuxt/image", "@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "@nuxt/icon", "@nuxt/scripts"],
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: "en-DK",
+      },
+    },
+  },
+  modules: ["@nuxt/image", "@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "@nuxt/icon", "@nuxt/scripts", "@nuxtjs/html-validator"],
   googleFonts: {
     preload: true,
     families: {
