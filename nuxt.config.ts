@@ -10,6 +10,7 @@ export default defineNuxtConfig({
       },
     },
   },
+  ssr: true,
   modules: ["@nuxt/image", "@nuxtjs/tailwindcss", "@nuxtjs/google-fonts", "@nuxt/icon", "@nuxt/scripts", "@nuxtjs/html-validator"],
   googleFonts: {
     preload: true,
