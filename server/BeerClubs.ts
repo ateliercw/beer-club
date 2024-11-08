@@ -735,6 +735,17 @@ export const beerClubs: { [key: number]: BeerClub } = {
         volume: "44 CL",
       },
       {
+        url: "https://untappd.com/b/brouwerij-st-bernardus-pater-6/221",
+        name: "Pater 6",
+        brewery: "Brouwerij St.Bernardus",
+        summary: "St.Bernardus Pater 6 is brewed according to the classic Dubbel style with a recipe that dates back to 1946. The name of this beer has become a reference for its style, and it is commonly referred to as ‘een Paterke' in Belgium, which is a Dutch nickname for a monk.\n\nSt.Bernardus Pater 6 is a chestnut-brown, dark beer with a creamy head. Impressions of hazelnut and mocha lie at the basis of the mouth feel, which flows into a playful duel between the mild taste of dark candy sugar and a slightly toasted but dry grain character. Plenty of apple and pear aromas make their presence felt all the way to the slightly bitter aftertaste.",
+        image: "/img/club/7/St. Bernardus Pater 33cl.webp",
+        abv: 6.7,
+        country: "Belgium 🇧🇪",
+        type: "Belgian Dubbel",
+        volume: "33 CL",
+      },
+      {
         url: "https://www.kihoskh.dk/collections/christmas-beers/products/risalamande-danish-rice-pudding-sour-x-vaeskebalancen",
         name: "Risalamande ‘Danish Rice Pudding’ Sour",
         brewery: "Vault City Brewing X Væskebalancen",
