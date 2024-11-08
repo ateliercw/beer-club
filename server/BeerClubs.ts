@@ -3,7 +3,7 @@ import { BeerClub } from "~/server/Beer.js";
 export const beerClubs: { [key: number]: BeerClub } = {
   1: {
     name: "Round 1",
-    date: new Date("2021-08-22"),
+    date: new Date("2021-10-22"),
     beers: [
       {
         name: "Macaroon Machine",
