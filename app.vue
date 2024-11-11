@@ -24,12 +24,14 @@ useHead({
   },
 });
 
+const header = useResponseHeader("Permissions-Policy");
+header.value = "screen-wake-lock=self";
+
 let wakeLock = null;
 
 const onFullScreen = (event: Event) => {
   if (document.fullscreenElement) {
     document.documentElement.getElementsByTagName("body")[0].classList.add("is-fullscreen");
-    console.log(navigator);
     acquireLock();
   } else {
     document.documentElement.getElementsByTagName("body")[0].classList.remove("is-fullscreen");
