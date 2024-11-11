@@ -6,7 +6,7 @@
 </template>
 
 <script setup lang="ts">
-function requestFullScreen() {
+const requestFullScreen = async () => {
   const element = document.getElementsByTagName("div")[0];
   // Supports most browsers and their versions.
   const requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
@@ -15,8 +15,13 @@ function requestFullScreen() {
     requestMethod.call(element);
   }
 
-  acquireLock();
-}
+  try {
+    wakeLock = await navigator.wakeLock.request();
+    console.log(wakeLock);
+  } catch (err) {
+    console.log(err.message);
+  }
+};
 
 let wakeLock = null;
 
@@ -25,7 +30,6 @@ const onFullScreen = async (event: Event) => {
     if (wakeLock != null) {
       wakeLock.release().then(() => {
         wakeLock = null;
-        consoel.log(wakeLock);
       });
     }
   }
@@ -45,13 +49,4 @@ onUnmounted(() => {
   document.removeEventListener("fullscreenchange", onFullScreen);
   document.addEventListener("visibilitychange", onVisibilityChanged);
 });
-
-async function acquireLock() {
-  try {
-    wakeLock = await navigator.wakeLock.request();
-    console.log(wakeLock);
-  } catch (err) {
-    console.log(err.message);
-  }
-}
 </script>
