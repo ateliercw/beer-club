@@ -22,7 +22,11 @@ useHead({
   bodyAttrs: {
     class: "group bg-amber-100 text-amber-800",
   },
+  meta: [{ "http-equiv": "Permissions-Policy", content: "screen-wake-lock=self" }],
 });
+
+const header = useResponseHeader("Permissions-Policy");
+header.value = "screen-wake-lock=self";
 
 let wakeLock = null;
 
