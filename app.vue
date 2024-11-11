@@ -24,16 +24,40 @@ useHead({
   },
 });
 
+let wakeLock = null;
+
 const onFullScreen = (event: Event) => {
   if (document.fullscreenElement) {
     document.documentElement.getElementsByTagName("body")[0].classList.add("is-fullscreen");
+    console.log(navigator);
+    acquireLock();
   } else {
     document.documentElement.getElementsByTagName("body")[0].classList.remove("is-fullscreen");
+    if (wakeLock != null) {
+      wakeLock.release().then(() => {
+        wakeLock = null;
+        consoel.log(wakeLock);
+      });
+    }
   }
 };
 
+async function acquireLock() {
+  try {
+    wakeLock = await navigator.wakeLock.request("screen");
+    console.log(wakeLock);
+  } catch (err) {
+    console.log(err);
+  }
+}
+
 onMounted(() => {
   document.addEventListener("fullscreenchange", onFullScreen);
+  document.addEventListener("visibilitychange", async () => {
+    if (wakeLock !== null && document.visibilityState === "visible" && document.fullscreenElement != null) {
+      wakeLock = await navigator.wakeLock.request("screen");
+    }
+  });
 });
 onUnmounted(() => {
   document.removeEventListener("fullscreenchange", onFullScreen);
