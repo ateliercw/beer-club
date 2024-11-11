@@ -24,9 +24,6 @@ useHead({
   },
 });
 
-const header = useResponseHeader("Permissions-Policy");
-header.value = "screen-wake-lock=self";
-
 let wakeLock = null;
 
 const onFullScreen = (event: Event) => {
