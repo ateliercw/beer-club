@@ -1,0 +1,781 @@
+[
+    {
+        "title": "Round 1",
+        "date": "22/10/2021",
+        "beer": [
+            {
+                "name": "Macaroon Machine",
+                "image": "/images/uploads/event/1/AHI_43545239393631393932.webp",
+                "type": "Double Pastry Imperial Stout",
+                "abv": 10,
+                "volume": "440 ml",
+                "brewery": "Moersleutel Craft Brewery",
+                "country": "Netherlands 🇳🇱",
+                "url": "https://untappd.com/b/moersleutel-craft-brewery-macaroon-machine/4174921",
+                "summary": "Think of coconut, think of chocolate and think of pure luxury in your glass, that is what this beer is all about. A rich aroma paired with a decadent flavor profile."
+            },
+            {
+                "name": "Citra, Mo, Galaxy",
+                "image": "/images/uploads/event/1/citra_mo_galaxy_257058-105525837.webp",
+                "type": "American IPA",
+                "abv": 6,
+                "volume": "440 ml",
+                "brewery": "Overtone Brewing Co",
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "url": "https://untappd.com/b/overtone-brewing-co-citra-mo-galaxy/4467798",
+                "summary": "We go back to experimenting with the classic hop combo series, this time bringing one of our favourite hops to the party, Galaxy! Soft and juicy mouthfeel with bright passion fruit and citrus flavours and some mellow grassy notes."
+            },
+            {
+                "name": "Blueberry Lemon Cheesecake J.R.E.A.M.",
+                "image": "/images/uploads/event/1/Burley-Oak-JREAM-Blueberry-Lemon-Cheesecake-Sour-16OZ-CAN_375x.jpg.webp",
+                "type": "Smoothie / Pastry Sour",
+                "abv": 4.8,
+                "volume": "440 ml",
+                "brewery": "Burley Oak Brewing Company",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/burley-oak-brewing-company-blueberry-lemon-cheesecake-j-r-e-a-m/4379789",
+                "summary": "This one is for the sweet tooths among us, a real blueberry cheesecake. Beautiful color, fresh sour taste and a perfect fruit combination. Sounds delicious, and it is."
+            },
+            {
+                "name": "Gold & Blue",
+                "image": "/images/uploads/event/1/madx_goldblue.png.webp",
+                "type": "Fruited Sour",
+                "abv": 5.5,
+                "volume": "75 CL",
+                "brewery": "MadX",
+                "country": "Hungary 🇭🇺",
+                "url": "https://untappd.com/b/madx-gold-and-blue/4077893",
+                "summary": "Barrel Aged Golden Sour Ale with Blueberries"
+            },
+            {
+                "name": "Extra Scene",
+                "image": "/images/uploads/event/1/19168.webp",
+                "type": "New England / Hazy IPA",
+                "abv": 6.7,
+                "volume": "440 ml",
+                "brewery": "Polly's Brew Co.",
+                "country": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+                "url": "https://untappd.com/b/polly-s-brew-co-extra-scene/4436255",
+                "summary": "Citra and Mosaic is a pretty Champions League hop combo in our opinion. One that has followed us all the way from the humble beginnings of the brewery all the way up to now – we’ve even named our brewery dog after the former. How do you improve on a Champions League hop pairing though? Easy – make it a three way dance of Stateside smashers, and introduce a little Idaho 7 into proceedings. A hop varietal that we feel is sorely underused, Idaho 7 brings super sticky marmalade notes along with just a tickling of herbal complexity to the already high juice punchbowl of tropical, juicy notes from that world beating base pairing. With everything wrapped up in a big warm hug of our bespoke LA3 yeast strain, this is a beer that is mega hazy, mega juicy, and mega Polly’s."
+            },
+            {
+                "name": "Prior 8",
+                "image": "/images/uploads/event/1/st-bernardus-prior-8-3128923292.webp",
+                "type": "Belgian Dubbel",
+                "abv": 3,
+                "volume": "330 ml",
+                "brewery": "Brouwerij St.Bernardus",
+                "country": "Belgium 🇧🇪",
+                "url": "https://untappd.com/b/brouwerij-st-bernardus-prior-8/475",
+                "summary": "St.Bernardus Prior 8 is a traditional abbey beer and sometimes also referred to as a dark tripel. The original recipe dates back to the times when we still brewed under licence (1946-1992). Named ‘World’s Best Dark Belgian Style Dubbel’ on the World Beer Awards, in other words, the best Dubbel beer in the world.\n\nSt.Bernardus Prior 8 is chestnut brown, emitting a deep red glow and presenting a lovely rounded head. The beer stands out with its fruity aroma, reminiscent of tree fruits like red apples, but complemented by exotic touches of figs and dates. The whole is rounded off perfectly by impressions of caramel and roast malt. The full taste is malty and fruity in equal measure and achieves the perfect balance between bitter and sweet."
+            },
+            {
+                "name": "Dragon’s Milk Reserve: Double Bourbon Barrel-Aged Stout",
+                "image": "/images/uploads/event/1/dragon vanilla.png",
+                "type": "Imperial / Double Stout",
+                "abv": 12.3,
+                "volume": "330 ml",
+                "brewery": "New Holland Brewing",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/new-holland-brewing-dragon-s-milk-reserve-double-bourbon-barrel-aged-stout-with-madagascar-and-indonesian-vanilla-beans-2021-2/4313781",
+                "summary": "The second Reserve of 2021 brings barrel character to the forefront, complimented by two separate additions of carefully selected vanilla beans. First, this one aged for three months in bourbon barrels with whole Madagascar vanilla beans, where the beer was imparted with rich and creamy vanilla sweetness. The beer is then moved to a fresh set of bourbon barrels for another three months, this time paired with Indonesian vanilla beans. The caramel and oak of the barrel is imparted here, married with subtle smoky, earthy, and fruity notes from the vanilla. The result is nothing short of legendary"
+            },
+            {
+                "name": "Tahitian Honeymoon",
+                "image": "/images/uploads/event/1/SHARED_PPLD_Slides_to_Upload_50__99987.webp",
+                "type": "Mead - Metheglin",
+                "abv": 13.5,
+                "volume": "75 CL",
+                "brewery": "Superstition Meadery",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/superstition-meadery-tahitian-honeymoon/452302",
+                "summary": "We created the perfect sundowner in this honey wine fermented with Tahitian vanilla beans. Chill and sip this mead on your deck as you reflect on the finer things in life. Pair this unique drink with dark Belgian chocolate or enjoy as a nightcap."
+            }
+        ]
+    },
+    {
+        "title": "Round 2",
+        "date": "2022-06-03",
+        "beer": [
+            {
+                "name": "Saison Dupont",
+                "image": "/images/uploads/event/2/Saison Dupont.webp",
+                "type": "Saison",
+                "abv": 6.5,
+                "volume": "330ml",
+                "brewery": "Brasserie Dupont",
+                "country": "Belgium 🇧🇪",
+                "url": "https://untappd.com/b/brasserie-dupont-saison-dupont/8073",
+                "summary": "Saison Dupont is a world classic beer and the yardstick for one of Belgium’s most important beer styles. It is the most admired AND imitated Saison in the world. A strong, vital yeast is key to full attenuation and thus to the style. Saison Dupont is straw colored with a dense creamy head. The nose is alive, like fresh raised bread, estery with citrus and spice notes. Full-bodied and malty, it sparkles on the palate and finishes with a zesty hop and citrus attack. Incredibly compatible with food!"
+            },
+            {
+                "name": "Pineapple Double Marbles",
+                "image": "/images/uploads/event/2/Pineapple Double Marbles.webp",
+                "type": "Milkshake IPA",
+                "abv": 8,
+                "volume": "473ml",
+                "brewery": "More Brewing Company",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/more-brewing-company-pineapple-double-marbles/4734504",
+                "summary": "Milkshake Style DIPA with Pineapple, Vanilla, and Milk Sugar."
+            },
+            {
+                "name": "Abt 12",
+                "image": "/images/uploads/event/2/Abt 12.webp",
+                "type": "Abbey Quadrupel",
+                "abv": 10,
+                "volume": "330ml",
+                "brewery": "Brouwerij St.Bernardus",
+                "country": "Belgium 🇧🇪",
+                "url": "https://untappd.com/b/brouwerij-st-bernardus-abt-12/6760",
+                "summary": "St.Bernardus Abt 12 is widely regarded as one of the best beers in the world and therefore also the real flagship of our brewery. It is brewed in the classic quadrupel style and adheres to the original 1946 recipe.\n\nDid you know that the St.Bernardus on every thousandth label of a 33-centilitre bottle is winking?\n\nSt.Bernardus Abt 12 is a dark beer of top fermentation with a robust head that is ivory in colour. It has a very fruity aroma that is the result of using our own unique yeast. It brims over with different, complex tastes and stands out through its long, bittersweet finish. It is an ideal partner for rich beef dishes and recipes with game. It also forms a perfect match with blue cheese and chocolate."
+            },
+            {
+                "name": "Red Odyssey",
+                "image": "/images/uploads/event/2/Red Odyssey.webp",
+                "type": "Gose",
+                "abv": 11,
+                "volume": "440ml",
+                "brewery": "Polly’s Brew Co.",
+                "country": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+                "url": "https://untappd.com/b/polly-s-brew-co-red-odyssey/4784563",
+                "summary": "Taking inspiration from the Kriek beers we used to knock back during our formative drinking years in our hometown, Red Odyssey features a staggering 75kg of sour cherries, with a further 50kg of sweet cherries, as well as 2kg of Halen Mon Sea Salt, sourced a stone’s throw away from the brewery, to create a triple cherry gose positively bursting at the seams with flavour. The biggest experiment with our sour beers we’ve ever done, and a statement of intent where we’re going in the future."
+            },
+            {
+                "name": "Château Noir (Cellar Series)",
+                "image": "/images/uploads/event/2/Château Noir (Cellar Series).webp",
+                "type": "Baltic Porter",
+                "abv": 12,
+                "volume": "330ml",
+                "brewery": "Põhjala",
+                "country": "Estonia 🇪🇪",
+                "url": "https://untappd.com/b/pohjala-chateau-noir/4676858",
+                "summary": "BA Imperial Baltic Porter\n\nA vinous Imperial Baltic Porter aged in 2017/18 Bordeaux red wine barrels and Pedro Ximenez barrels."
+            },
+            {
+                "name": "Bistro Cabana Pink Guava & Pineapple",
+                "image": "/images/uploads/event/2/Bistro Cabana Pink Guava Pineapple.webp",
+                "type": "Berliner Weisse",
+                "abv": 6.5,
+                "volume": "473ml",
+                "brewery": "Energy City Brewing",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/energy-city-brewing-bistro-cabana-pink-guava-and-pineapple/4683616",
+                "summary": "Heavily fruited Berliner weisse with pink guava and pineapple added after fermentation."
+            },
+            {
+                "name": "Black Forest Cake Stout",
+                "image": "/images/uploads/event/2/Black Forest Cake Stout.webp",
+                "type": "Pastry Stout",
+                "abv": 9.5,
+                "volume": "355ml",
+                "brewery": "Untitled Art",
+                "country": "United States 🇺🇸",
+                "url": "https://untappd.com/b/untitled-art-black-forest-cake-stout/4193157",
+                "summary": "If you’ve ever had the pleasure of enjoying a slice of the real-deal Baden-Württemberg torte, if you closed your eyes you’d think you’re drinking a slice. Upon first sip, you’re treated to the sweet tang of sour cherries and ride the flavor wave down to the dark chocolate depths. How did we achieve such perfection? By brewing with cocoa nibs, vanilla beans and two types of cherries."
+            },
+            {
+                "name": "Barrel Fermented Cider",
+                "image": "/images/uploads/event/2/Barrel Fermented Cider.webp",
+                "type": "Cider",
+                "abv": 7,
+                "volume": "440ml",
+                "brewery": "Berryland",
+                "country": "Ukraine 🇺🇦",
+                "url": "https://untappd.com/b/berryland-barrel-fermented-cider-2019-vintage/4815214",
+                "summary": "Hard cider can have a wide range of flavors depending on the apples that were used to make it, and barrel aging should add complexity of flavor."
+            },
+            {
+                "name": "Smokey Joe",
+                "image": "/images/uploads/event/2/Smokey Joe.webp",
+                "type": "Imperial Stout",
+                "abv": 11.1,
+                "volume": "440ml",
+                "brewery": "Overtone Brewing Co",
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "url": "https://untappd.com/b/overtone-brewing-co-smokey-joe/4587178",
+                "summary": "Brewed with smoked malts, Columbian coffee and maple syrup, but it’s done some time ageing deliciously in Big Peat barrels, a marriage of Islay Single Malts from Douglas Laing. The barrels impart sweet tar notes and intensify the smokiness with a lingering phenolic finish."
+            }
+        ]
+    },
+    {
+        "title": "Round 3",
+        "date": "2022-11-11",
+        "beer": [
+            {
+                "image": "/img/club/3/StBernardus_ChristmasAle_k_1000x.png.webp",
+                "name": "Christmas Ale",
+                "type": "Winter Ale",
+                "abv": 10,
+                "volume": "33cl",
+                "brewery": "St. Bernardus",
+                "country": "Belgium 🇧🇪",
+                "url": "https://untappd.com/b/brouwerij-stbernardus-christmas-ale/8121",
+                "summary": "St.Bernardus Christmas Ale is, as its name implies, a typical winter beer. This dark beer is filled with winter cheer and feels like Christmas in a bottle: warm, cosy, and really inviting to enjoy together with friends or family.\n\nSt.Bernardus Christmas Ale takes on a splendid dark-brown colour that is topped off with a cream-coloured layer of froth. It’s an intensely dark beer with a full, yet slightly fruity flavour, overflowing with the tastes of winter and zesty seasonal aromas. Aniseed notes are complemented by hints of creamy caramel and fire-roasted chestnuts. This zestiness shows no signes of abating, pushing through to a magnificent finish of dried fruits and chocolate."
+            },
+            {
+                "image": "/img/club/3/KIHOSKHxPOhjala_PaleAlePeople22_k_1000x.png.webp",
+                "name": "People",
+                "type": "Pale Ale",
+                "abv": 5.5,
+                "volume": "33cl",
+                "brewery": "Brewed at Põhjala for Kihoskh",
+                "country": "Estonia 🇪🇪 for Denmark 🇩🇰",
+                "url": "https://untappd.com/b/pohjala-pale-ale-people-x-kihoskh/4396669",
+                "summary": "Brewed and double dry hopped with mountains of Australia’s finest hop, Galaxy, for a tropical juicy mouthfeel, this hazy pale ale is bursting with flavors of passionfruit, pineapple, fresh lychee, and more all layered on a rich and creamy base of malted oats."
+            },
+            {
+                "image": "/img/club/3/Slowburn_Hibernator_k_1000x.png.webp",
+                "name": "Hibernator",
+                "type": "Doppelbock",
+                "abv": 7,
+                "volume": "44cl",
+                "brewery": "Slowburn",
+                "country": "Denmark 🇩🇰",
+                "url": "https://untappd.com/b/slowburn-brewing-co-op-hibernator/3538592",
+                "summary": "A winter seasonal Doppelbock. Hibernator is brewed with a base of toasty Munich malts and fermented cold with German lager yeast. It's the perfect beer to warm you up on a chilly winter evening."
+            },
+            {
+                "image": "/img/club/3/Overtone_EndleessPath_k_1000x.png.webp",
+                "name": "Endless Path",
+                "type": "Double IPA",
+                "abv": 8,
+                "volume": "44cl",
+                "brewery": "Overtone",
+                "country": "Scotland  🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "url": "https://untappd.com/b/overtone-brewing-co-endless-path/4930682",
+                "summary": "Using three hugely distinctive hops, we’ve balanced them gently to create this hop-forward DDH DIPA. Your mouth will explode with an endless path of citrus, coconut, wood, sweet berries, papaya, floral and herbal."
+            },
+            {
+                "image": "/img/club/3/DomaineDupont_CidreBouche2019_k_1000x.png.webp",
+                "name": "Cidre Bouché 2019",
+                "type": "Cider - Traditional",
+                "abv": 6.5,
+                "volume": "37.5cl",
+                "brewery": "Domaine Dupont",
+                "country": "France 🇫🇷",
+                "url": "https://untappd.com/b/domaine-dupont-cidre-bouche-2019/3884930",
+                "summary": "Cidre Bouch is created using the traditional method of the Pays d'Auge. Full of fruit and freshness, the taste reveals the aromas of apples and citrus with finesse (\"cidre bouch\" is a generic term for traditional cider, literally \"cider under cork\")."
+            },
+            {
+                "image": "/img/club/3/KIHOSKHxPohjala_CornerIPA22_k_1000x.png.webp",
+                "name": "Corner IPA",
+                "type": "New England IPA",
+                "abv": 6,
+                "volume": "33cl",
+                "brewery": "Brewed at Põhjala for Kihoskh",
+                "country": "Estonia 🇪🇪 for Denmark 🇩🇰",
+                "url": "https://untappd.com/b/pohjala-corner-ipa-x-kihoskh/3912048",
+                "summary": "Nose: Stewed mangos and sweet white grape, lemongrass and freshly brewed white tea, pineapple and lychee. A tropical fruit bowl of aromas mix to form a sweet and juicy aroma\n\nTaste: Fresh and juicy hops present a tropical fruit punch bowl, with your tastebuds invited to the party. Delicate oats tingle on the tongue whilst leaving sweet fruity finish"
+            },
+            {
+                "image": "/img/club/3/Pohjala_MarshmallowIsland_k_1000x.png.webp",
+                "name": "Marshmallow Island",
+                "type": "Imperial Baltic Porter",
+                "abv": 9,
+                "volume": "33cl",
+                "brewery": "Põhjala",
+                "country": "Estonia 🇪🇪",
+                "url": "https://untappd.com/b/pohjala-marshmallow-island/4708183",
+                "summary": "A multigrain Imperial Baltic porter inspired by toasted marshmallows - brewed with smoked malt, lactose, and Tahitian vanilla."
+            },
+            {
+                "image": "/img/club/3/BurningSky_BarleyWine_1000x.png.webp",
+                "name": "Barley Wine",
+                "type": "Barley Wine",
+                "abv": 9.5,
+                "volume": "44cl",
+                "brewery": "Burning Sky 🇬🇧",
+                "country": "UK",
+                "url": "https://untappd.com/b/burning-sky-brewery-barley-wine/4693607",
+                "summary": "Put your feet up and contemplate this big, bold, classic US style barley wine. Rich mouthfeel with caramel notes from Maris Otter and crystal malts. Robust bitterness with an apparent yet balanced hop aroma to muse upon."
+            },
+            {
+                "image": "/img/club/3/Donzoko_YuzuRiceLager_k_1000x.png.webp",
+                "name": "Yuzu",
+                "type": "Japanese Rice Lager",
+                "abv": 5,
+                "volume": "50cl",
+                "brewery": "Donzoko Brewing Company",
+                "country": "Scotland  🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "url": "https://untappd.com/b/donzoko-brewing-company-yuzu/4901188",
+                "summary": "A zippy, ultra light rice lager, with motueka hops and Japanese Yuzu juice. Intense citrus smasher"
+            },
+            {
+                "image": "/img/club/3/ToOl_Blizzard_k_efb1ad36-290f-4d5d-8833-f219f1de3758_1000x.png.webp",
+                "name": "Blizzard (In A Beer Mug)",
+                "type": "New England IPA",
+                "abv": 6,
+                "volume": "44cl",
+                "brewery": "To Øl",
+                "country": "Denmark 🇩🇰",
+                "url": "https://untappd.com/b/to-ol-blizzard-in-a-beer-mug/2299128",
+                "summary": "Like the blizzard of ’78 in New England, this winter wheat IPA will lie as a turbid thunderstorm in your beer mug. No fuss – but fat, fruity and full-bodied. A 6% New England Style IPA with Mosaic and Simcoe hops."
+            },
+            {
+                "image": "/img/club/3/Pohjala_tool_Stick_stones_1000x.png.webp",
+                "name": "Sticks & Stones",
+                "type": "Imperial Stout",
+                "abv": 13.5,
+                "volume": "33cl",
+                "brewery": "Põhjala & To Øl",
+                "country": "Estonia 🇪🇪 X Denmark 🇩🇰",
+                "url": "https://untappd.com/b/pohjala-sticks-and-stones-cellar-series/4949968",
+                "summary": "An Imperial Stout brewed with raspberry branch tea, raspberries, and liquorice - aged in Oloroso sherry and Ruby port barrels."
+            },
+            {
+                "image": "/img/club/3/Mytebryg_Gridsgave_k_1000x.png.webp",
+                "name": "Grids Gave",
+                "type": "Cherry Mead",
+                "abv": 13.2,
+                "volume": "37.5cl",
+                "brewery": "St. Mytebryg",
+                "country": "Denmark 🇩🇰",
+                "url": "https://untappd.com/b/mytebryg-grids-gave/3999843",
+                "summary": "A classic cherry mead."
+            }
+        ]
+    },
+    {
+        "title": "Round 4",
+        "date": "2023-03-10",
+        "beer": [
+            {
+                "image": "/img/club/4/Cloudwater_SuperHappy_k_1000x.png.webp",
+                "name": "Super Happy",
+                "brewery": "Cloudwater Brew Co.",
+                "country": "England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+                "type": "New England Pale Ale",
+                "volume": "44 CL",
+                "abv": 5.3,
+                "url": "https://untappd.com/b/cloudwater-brew-co-super-happy/4785464",
+                "summary": "Requested by: Christian\n\nAn amped-up twist on our popular Pale Ale Happy!\n\nGuaranteed to put a smile on your face. This doubled-up version of our modern session Pale Ale will leave you twice as Happy! It retains all the drinkability of the original, while providing an even greater rush of fresh hop aromatics. Bright tropical fruits and juicy citrus carried by a smooth body and rounded off by a refreshing, dry finish."
+            },
+            {
+                "name": "Abt 12 Quadrupel",
+                "brewery": "Brouwerij Saint Bernardus",
+                "country": "Belgium 🇧🇪",
+                "type": "Belgian Quadrupel",
+                "volume": "33 CL",
+                "abv": 10,
+                "image": "/img/club/4/StBernardus_Abt12_2022_k_1000x.png.webp",
+                "url": "https://untappd.com/b/brouwerij-stbernardus-abt-12/6760",
+                "summary": "Requested by: Frederik\n\nThe St. Bernardus Abt 12 is the pride of our stable, the nec plus ultra of our brewery. Abbey ale brewed in the classic 'Quadrupel' style of Belgium's best Abbey Ales. Dark with a full, ivory-colored head. It has a fruity aroma, full of complex flavours and excells because of its long bittersweet finish with a hoppy bite. (10,0% ABV) Worldwide seen as one of the best beers in the world. It's a very balanced beer, with a full-bodied taste and a perfect equilibrium between malty, bitter and sweet. One of the original recipes from the days of license-brewing for the Trappist monks of Westvleteren"
+            },
+            {
+                "image": "/img/club/4/TwoTides_SpeadTheJamPeachMArmalade_k_1000x.png",
+                "name": "Spread The Jam - Peach Marmalade",
+                "brewery": "Two Tides",
+                "country": "USA 🇺🇸",
+                "type": "Fruited Sour",
+                "volume": "47.3 CL",
+                "abv": 7,
+                "url": "https://untappd.com/b/two-tides-brewing-co-spread-the-jam-peach-marmalade/4669448",
+                "summary": "Requested by: Beatrice\n\nHey there... You look like you could use some Jam. Or marmalade. Wait what’s the difference? Where does Jelly fit in? This is stressing me out. Globs of super thick peach + vibrant orange create the perfect balance of sour and sweet."
+            },
+            {
+                "name": "Big Puppy",
+                "brewery": "Omnipollo x Trillium",
+                "country": "Sweden 🇸🇪 x USA 🇺🇸",
+                "type": "Double IPA",
+                "volume": "44 CL",
+                "abv": 8.6,
+                "image": "/img/club/4/Omnipollo_Trillium_BigPuppy_1000x.png.webp",
+                "url": "https://untappd.com/b/omnipollo-big-puppy/5074214",
+                "summary": "Requested by: Emre\n\nFor this collaboration with our bffs - JC & Esther at Trillium - we decided to bring out something extra special from our hop fridge. Riwaka hops have a strong not of passion fruit but due to the notoriously low yield of this variety and the high demand it is hard to get hold of. Please enjoy this absolute tribute to this hop."
+            },
+            {
+                "image": "/img/club/4/VanSaft_BioCiderBerlin_k_cafa07c9-3175-40a6-a324-ed0a3ba6acdf_1000x.png.webp",
+                "name": "Bio Cider Berlin",
+                "brewery": "Van Saft",
+                "country": "Germany 🇩🇪",
+                "type": "Organic Apple Cider",
+                "volume": "33 CL",
+                "abv": 5,
+                "url": "https://untappd.com/b/van-saft-bio-cider-berlin/4484571",
+                "summary": "Requested by: Beatrice\n\nReplacing: Cidre Bouché & Sig Natur\n\nKIHOSKH is bringing you this lovely cider from Van Saft, Berlin. Produced from the most wonderful organic Brandenburger Apples. This is worth trying if you like cider and honest produce."
+            },
+            {
+                "name": "Look What You Did You Little Jerk",
+                "brewery": "Celestial Beerworks x Great Raft Brewing",
+                "country": "USA 🇺🇸",
+                "type": "Imperial Stout",
+                "volume": "47.3 CL",
+                "abv": 10,
+                "image": "/img/club/4/Celestial_LookWhatYouDidYouLittleJerk_k_1000x.png.webp",
+                "url": "https://untappd.com/b/celestial-beerworks-look-what-you-did-you-little-jerk/4631866",
+                "summary": "Requested by: Beatrice\n\nIt's decadent. It's rich. It’s nostalgic.It’s boozy. It’s truly liquid Muddy Buddies. (Muddy Buddies- for those who don’t know- are chocolate and peanut butter covered Chex cereal pieces dusted with powdered sugar.\n\nWe get LOADS of the powdered sugar in the aroma blended with some light notes of peanut putter. The flavor is super full of rich dark chocolate and thick peanut butter spoonfuls. The aftertaste sits on the tongue for full minutes sprinkled with tastes of cereal, PB and heavy fudge."
+            },
+            {
+                "image": "/img/club/4/BIANCA DOUBLE BLUEBERRY ALMOND CAKE WILD WILD BRETT.webp",
+                "name": "Bianca Double Blueberry Almond Cake Wild Wild Brett",
+                "brewery": "Crooked Stave Artisan Beer Project x Omnipollo",
+                "country": "USA 🇺🇸 x Sweden 🇸🇪",
+                "type": "Pastry Sour",
+                "volume": "47.3 CL",
+                "abv": 6.5,
+                "url": "https://untappd.com/b/crooked-stave-bianca-double-blueberry-almond-cake-wild-wild-brett/4323218",
+                "summary": "Requested by: Cyrus\n\nReplacing: Crooked Stave Nightcap\n\nFruited Sour Ale fermented in Oak Foeders with Blueberries, Vanilla, Almonds, & Milk Sugar."
+            },
+            {
+                "name": "Now I Am Death Destroyer Of Worlds",
+                "brewery": "Adroit Theory",
+                "country": "USA 🇺🇸",
+                "type": "Triple IPA",
+                "volume": "47.3 CL",
+                "abv": 10,
+                "image": "/img/club/4/NOW I AM DEATH DESTROYER OF WORLDS.webp",
+                "url": "https://untappd.com/b/adroit-theory-now-i-am-death-destroyer-of-worlds-ghost-destroyer/4726462",
+                "summary": "Requested by: Mads\n\nGhost Destroyer. This is a flagship Hazy Triple IPA and it is a beast of a beer! Opaque, pillowy and semi-sweet body you've come to expect, paired with intensely juicy citrus hop notes and slight finishing bitterness. Double Dry-Hopped with Citra, El Dorado + Galaxy"
+            },
+            {
+                "image": "/img/club/4/Amundsen_9thGErmanChocolate_k_1000x.png.webp",
+                "name": "9th Birthday Cake - German Chocolate Cake With Maple Frosting",
+                "brewery": "Amundsen Brewery x Stigbergets",
+                "country": "Norway 🇳🇴 x Sweden 🇸🇪",
+                "type": "Imperial Stout",
+                "volume": "44 CL",
+                "abv": 13,
+                "url": "https://untappd.com/b/amundsen-brewery-9th-birthday-cake-german-chocolate-cake-and-maple-frosting/5141210",
+                "summary": "Requested by: Beatrice\n\nGerman Chocolate Cake with Maple Frosting Pastry Stout."
+            },
+            {
+                "name": "Oude Geuze Cuvée Armand & Gaston Blend #17",
+                "brewery": "Brouwerij 3 Fonteinen",
+                "country": "Belgium 🇧🇪",
+                "type": "Lambic - Geuze",
+                "volume": "75 CL",
+                "abv": 6,
+                "image": "/img/club/4/3Fonteinen_Armand_GastonGeuze_17_k_1000x.png.webp",
+                "url": "https://untappd.com/b/brouwerij-3-fonteinen-3-fonteinen-oude-geuze-cuvee-armand-and-gaston-season-1617-blend-no-1/2084585",
+                "summary": "Requested by: Emil\n\nThis Cuvée Armand & Gaston has been blended with lambikken from four different barrels and originating from four different brews. Twenty percent of the cereals that we used for brewing the young lambik, were sourced in Brabant through our own farmers’ network. The old lambik that we used — brewed in the first days of 2018 — comes from two small 400-litre barrels that we found to be gently oxidative.\n\nThe weighted average age of this blend upon bottling was eighteen months."
+            }
+        ]
+    },
+    {
+        "title": "Round 5",
+        "date": "2023-09-08",
+        "beer": [
+            {
+                "image": "/img/club/5/Pihlsner1_k_1000x.png.webp",
+                "name": "Pihlsner",
+                "type": "Pilsner",
+                "abv": 4.6,
+                "volume": "44cl",
+                "brewery": "Kihoskh X Kølster",
+                "country": "Denmark 🇩🇰",
+                "url": "https://www.kihoskh.dk/products/pihlsner-kihoskh-x-kolster",
+                "summary": "A Refreshing Friendship\n\nKIHOSKH, in collaboration with local brewery Kølster, proudly presents \"Pihlsner\", a classic and invigorating organic Pilsner that embodies the spirit of friendship. Crafted with care and brewed with the finest ingredients, this beer is a testament to the shared passion for quality and community.\n\nPihlsner is the result of a seamless partnership between KIHOSKH and Kølster, coming straight off the road from Krogerup to Sønder Boulevard 53. The journey from the brewery to your glass ensures the utmost freshness and a delightful drinking experience.\n\nWith its crisp and clean profile, Pihlsner is a celebration of the Pilsner style, known for its refreshing character and timeless appeal. Sip by sip, you'll be greeted with a harmonious blend of carefully selected organic ingredients, resulting in a beer that showcases the art of brewing."
+            },
+            {
+                "image": "/img/club/5/FlyingCouch_KerneCraft_1000x.png.webp",
+                "name": "Kernecraft",
+                "url": "https://www.kihoskh.dk/products/kernecraft-new-england-ipa",
+                "summary": "A New England IPA brewed with Verdant Ale Yeast and 3 types of malt. Wheat, Barley and Oats provides the backbone of this banger and the three hops Idaho7, Simcoe and Citra finishes the beer and makes it a taste explosion.",
+                "type": "New England IPA",
+                "abv": 6.5,
+                "volume": "44cl",
+                "brewery": "Flying Couch Brewing",
+                "country": "Denmark 🇩🇰"
+            },
+            {
+                "image": "/img/club/5/AEbleov_CoxI2Kaj_k_1000x.png.webp",
+                "name": "COX I 2KAJ 2020",
+                "type": "Wild Fermented Organic Danish Cider",
+                "abv": 8.3,
+                "volume": "37.5cl",
+                "brewery": "Æblerov",
+                "country": "Denmark 🇩🇰",
+                "url": "https://www.kihoskh.dk/products/cox-i-2kaj-2020-37-5cl",
+                "summary": "Experience the best of two worlds with Cox i 2kaj 2020, a wild-fermented organic Danish cider that's also a sparkling wine. This exceptional drink is crafted with 70% of the best Danish Holsteiner Cox apples, combined with 30% Italian Chardonnay grapes. The unique blend is then fermented in very old Hungarian Tokaj barrels, giving it a distinct and refined taste. The result is a super lean and precise wine/cider hybrid that's been pleasantly rounded off by the barrel aging process. Cox i 2kaj 2020 is one of Æblerov's most serious ciders to date, perfect for those who appreciate the finer things in life."
+            },
+            {
+                "image": "/img/club/5/Huyghe_Delirium_k_3b33f4bf-8f86-4e40-8b1e-4ba4c21a870a_1000x.png.webp",
+                "name": "Delirium Tremens",
+                "type": "Belgian Strong Golden Ale",
+                "abv": 8.5,
+                "volume": "33cl",
+                "brewery": "Huyghe Brewery",
+                "country": "Belgium 🇧🇪",
+                "url": "https://www.kihoskh.dk/products/huyghe-delirium-tremens-belgianstrongale",
+                "summary": "Experience the excellence of Huyghe Delirium Tremens, a Belgian Strong Golden Ale, 8.5% ABV. Complex aroma of fruits, spices & hint of sweetness. Perfect balance of fruitiness, spiciness & a dry finish. Bottle conditioned for depth & complexity. Highly rated, versatile & perfect for any occasion"
+            },
+            {
+                "image": "/img/club/5/TG_DDHKingSue_k_1000x.png.webp",
+                "name": "Double Dry Hop King Sue",
+                "url": "https://www.kihoskh.dk/products/toppling-goliath-king-sue-3",
+                "summary": "With a ferocious bite that will make sure all learn to toe the line, this Citra hopped double IPA will make followers cheer and enemies crumble. But don’t take this beer lightly, when King Sue is on a rampage, nothing will stand in its way.\n\nCitra hops give King Sue its bold flavors of mango, orange, and pineapple. This double dry-hopped version packs even more flavor into each can.",
+                "type": "IPA - Imperial / Double New England",
+                "abv": 7.8,
+                "volume": "47.3cl",
+                "brewery": "Toppling Goliath 🇺🇸",
+                "country": "USA"
+            },
+            {
+                "image": "/img/club/5/PhaseThree_DoubleNectar_k_f471a68a-9c0e-4114-b7b4-249e41de97ba_1000x.png.webp",
+                "name": "Double Nectar Fruit Punch Sour",
+                "type": "Fruited Sour",
+                "abv": 7.8,
+                "volume": "47.3cl",
+                "brewery": "Phase Three Brewing",
+                "country": "USA 🇺🇸",
+                "url": "https://untappd.com/b/phase-three-brewing-double-nectar-fruit-punch/4019413",
+                "summary": "Fruited sour with passion fruit, mango, sweet cherry, pink guava, tangerine and key lime."
+            },
+            {
+                "name": "Adambier",
+                "image": "/img/club/5/BadSeed_AdamBier_1000x.png.webp",
+                "url": "https://www.kihoskh.dk/products/bad-seed-adambier",
+                "summary": "Originally released last year as our Batch #100 - our Adambier makes a return, simply under the name Adambier!\n\nAdambier is an old German style of strong ale, rooted in the tradition of the city of Dortmund. It is a rich, dark and satisfying ale, brewed with a wide range of different malts - both caramelized, roasted and peat-smoked - to create a complex ale with notes of dark fruits, leather, honey and chocolate.",
+                "type": "German Dark Strong Ale",
+                "abv": 10.5,
+                "volume": "33cl",
+                "brewery": "Bad Seed Brewing",
+                "country": "Denmark 🇩🇰"
+            },
+            {
+                "image": "/img/club/5/Amundsen_CoconutCronit_k_1000x.png.webp",
+                "name": "Coconut Cronut with Dark Chocolate & Almond Glaze",
+                "type": "Pastry Stout",
+                "abv": 11.5,
+                "volume": "44cl",
+                "brewery": "Amundsen Brewery",
+                "country": "Norway 🇳🇴",
+                "url": "https://www.kihoskh.dk/products/donut-series-coconut-cronut-with-dark-chocolate-almond-glaze",
+                "summary": "Prepare to indulge in an opulent treat with the \"Donut Series Coconut Cronut With Dark Chocolate & Almond Glaze.\" This 11.5% ABV Imperial Pastry Stout from Amundsen Brewery is a liquid manifestation of decadence, offering the sumptuous essence of a bounty bar draped in dark chocolate and almond glaze. Experience the fusion of coconut and cronut flavors in a rich, velvety stout that takes your palate on an unforgettable journey into the world of luxurious indulgence."
+            },
+            {
+                "image": "/img/club/5/Amundsen_ChocolatePeanutButter_k_1000x.png.webp",
+                "name": "Chocolate Peanut Butter Donut Topped with Caramel Popcorn",
+                "type": "Pastry Stout",
+                "abv": 7,
+                "volume": "44cl",
+                "brewery": "Amundsen Brewery",
+                "country": "Norway 🇳🇴",
+                "url": "https://www.kihoskh.dk/products/donut-series-chocolate-peanut-butter-donut-with-caramel-popcorn-glaze-pastry-stout",
+                "summary": "Step into the extraordinary realm of the DONUT SERIES with \"Chocolate Peanut Butter Donut With Caramel Popcorn Glaze.\" This pastry stout, featuring a 7% ABV, reimagines the classic donut experience by combining the rich allure of chocolate peanut butter with the delectable charm of caramel popcorn glaze. Let your taste buds embark on a journey of delight as you savor the harmonious interplay of flavors, expertly crafted by Amundsen Brewery."
+            },
+            {
+                "image": "/img/club/5/Brygghus19_SaveYourSOul_k_d68e2832-e7f5-463a-9013-7b07f784e668_1000x.png.webp",
+                "name": "Save Your Soul IPA",
+                "type": "IPA - West Coast",
+                "abv": 5.9,
+                "volume": "44cl",
+                "brewery": "Brygghus 19 X Jesper Binzer",
+                "country": "Sweden 🇸🇪",
+                "url": "https://www.kihoskh.dk/products/save-your-soul-ipa-x-jesper-binzer",
+                "summary": "Made by Brygghus 19 in collaboration with leadsinger from danish, legendary cow-punk/rock band D-A-D. - Jesper Binzer.\n\nThis old school West Coast IPA represents Jespers own experiences from when he had his first journeys into the world of craft beer.\n\nIt might even Save Your Soul...\n\nTaste the Rock n' Roll experience or safe it as a true memorabilia of RockN'Roll."
+            },
+            {
+                "image": "/img/club/5/Pohjala_Kamin_k_1000x.png.webp",
+                "name": "KAMIN",
+                "type": "Imperial Porter",
+                "abv": 11,
+                "volume": "33cl",
+                "brewery": "Põhjala",
+                "country": "Estonia 🇪🇪",
+                "url": "https://www.kihoskh.dk/products/kamin-cellar-series",
+                "summary": "Savor the warmth of Kamin by Põhjala, a rich and robust Imperial Porter, aged on Cognac, Sherry and Islay barrels. With complex notes of chocolate, coffee, vanilla and a hint of whiskey."
+            }
+        ]
+    },
+    {
+        "title": "Round 6",
+        "date": "2024-05-24",
+        "beer": [
+            {
+                "name": "St. Bernardus Wit",
+                "brewery": "Brouwerij St. Bernardus",
+                "image": "/img/club/6/St.Bernardus_Wit23_k.png.webp",
+                "type": "Wheat Beer",
+                "abv": 5.5,
+                "volume": "33cl",
+                "country": "Belgium 🇧🇪",
+                "summary": "St Bernardus Wit is a traditional Belgian white beer developed and brewed in collaboration with the legendary Master Brewer Pierre Celis. This ale is very pale (whitish-yellow colour) and quite hazy. The head is white and dense. In aroma, it has a wheaty, apple-like, tartness; herbal-spicy notes with coriander and orangey fruitness and honeyish sweetness. Very refreshing: perfect thirst quencher",
+                "url": "https://untappd.com/b/brouwerij-st-bernardus-wit/4700"
+            },
+            {
+                "url": "https://untappd.com/b/mash-gang-virgin-kir-royale/5432079",
+                "image": "/img/club/6/VaultCityxMashGang_VirginKirRoyal_k_da2712cd-96c1-4183-9587-cac439d7ac89.png",
+                "name": "Virgin Kir Royale",
+                "brewery": "Mash Gang ⛌ Vault City",
+                "type": "Low Alcohol Sour",
+                "abv": 0.5,
+                "volume": "44cl",
+                "country": "United Kingdom 🇬🇧",
+                "summary": "Experience the sophistication of a classic French cocktail with a refreshing twist. Virgin Kir Royale, a collaboration between Mash Gang and Vault City, brings you the essence of elegance in a non-alcoholic, 0.5% ABV brew.\n\nThis delightful fruited sour beer is carefully conditioned on tart Scottish blackcurrants and white grapes. The result is a harmonious blend of fruity flavors that mirror the elegance of a Kir Royale cocktail.\n\nWith each sip, you'll enjoy the champagne-inspired finesse of this beer. It's perfect for those seeking a sophisticated and alcohol-free alternative with all the charm of a classic cocktail."
+            },
+            {
+                "url": "https://untappd.com/b/omnipollo-omnipollos-tokyo/5481221",
+                "name": "Omnipollos Tokyo Rice IPA",
+                "brewery": "Omnipollo",
+                "image": "/img/club/6/Omnipollo_tokyo_IPA.png",
+                "type": "Rice IPA",
+                "abv": 5.4,
+                "volume": "33cl",
+                "country": "Sweden 🇸🇪",
+                "summary": "\"Omnipollos Tokyo\" is an exceptionally crisp rice IPA crafted in celebration of the 3rd anniversary of Omnipollo's bar in Japan. With a 5.4% ABV, it's a refreshing tribute to their presence in the Land of the Rising Sun."
+            },
+            {
+                "url": "https://untappd.com/b/vault-city-brewing-danish-berry-pudding-rodgrod-med-flode/5688098",
+                "image": "/img/club/6/VaultCity_DanishBErryPudding_k.png",
+                "name": "Danish Berry Pudding “Rødgrød Med Fløde”",
+                "brewery": "Vault City ⛌ Væskebalancen",
+                "type": "Pastry Sour",
+                "abv": 4.7,
+                "volume": "44cl",
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ⛌ Denmark 🇩🇰",
+                "summary": "Experience the authentic taste of Denmark with Vault City's expertly crafted Danish Berry Pudding, a collaboration with Væskebalancen, the premier Danish craft bar chain. Enjoy a beautiful blend of tart berries and creamy sweetness in this 6.4% alcohol pastry sour inspired by the renowned Danish delicacy \"Rødgrød med Fløde\". Trust in the unparalleled quality and expertise of Vault City to bring you the true essence of Danish cuisine."
+            },
+            {
+                "url": "https://untappd.com/b/bad-seed-brewing-hot-fuzz/5747414",
+                "image": "/img/club/6/BAdSeed_HotFuzz_k.png",
+                "name": "Hot Fuzz Double IPA",
+                "brewery": "Bad Seed Brewing",
+                "type": "Double New England IPA",
+                "abv": 8,
+                "volume": "44cl",
+                "country": "Denmark 🇩🇰",
+                "summary": "This Bad Seed Brewing Hot Fuzz Double IPA contains Nectaron, Nelson Sauvin, and Nelson Sub-Zero Hop Kief, with a touch of Simcoe. The rich aromas and flavors of sugary orange, passionfruit, peach, and pungency are enhanced by its delicate, airy consistency. With an alcohol content of 8%, this brew is a guaranteed hit."
+            },
+            {
+                "url": "https://untappd.com/b/mash-gang-vice/5415948",
+                "image": "/img/club/6/MAshGang_Vice_k.png",
+                "name": "Double Scoop Vanilla Ice Cream Cherry Float Pastry Stout",
+                "brewery": "Mash Gang 🇬🇧",
+                "type": "Low Alcohol Pastry Stout",
+                "abv": 0.5,
+                "volume": "44cl",
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "summary": "Expertly crafted with an imperial stout base, the Vice Low Alcohol Double Scoop Vanilla Ice Cream Cherry Float Pastry Stout by Mash Gang is a truly unique and decadent beer experience. This exclusive release captures the perfect blend of cherry cola and creamy vanilla ice cream, expertly balanced for a rich and robust flavor. With only 0.5% alcohol, indulge in a satisfying beverage that combines bold flavor with subtle sweetness."
+            },
+            {
+                "url": "https://untappd.com/b/gamma-brewing-company-big-doink/3055554",
+                "image": "/img/club/6/Gamma_BigDoinkFeb24_k.png",
+                "name": "Big Doink Double IPA",
+                "brewery": "Gamma Brewing",
+                "type": "Double IPA",
+                "abv": 8,
+                "volume": "44cl",
+                "country": "Denmark 🇩🇰",
+                "summary": "Big Doink, the Double IPA from Gamma Brewing: A Fan Favorite! Get ready to indulge in the beloved Big Doink Double IPA. With a robust 8% ABV, this beer is a true delight for hop lovers. Cashmere and Columbus hops take center stage in the whirlpool, infusing the brew with intense flavors. But it doesn't stop there. Big Doink is double dry hopped with Citra and Mosaic, creating a tantalizing explosion of hop goodness.\n\nExperience the harmonious blend of Cashmere & Columbus hops in every sip, as the citrusy notes of Citra and the tropical aroma of Mosaic intertwine to create a flavor sensation that will leave you craving more. Join the ranks of Big Doink enthusiasts and savor the hop-forward bliss of this remarkable Double IPA."
+            },
+            {
+                "url": "https://untappd.com/b/holy-goat-brewing-peruvian-chocolate-stout/5781018",
+                "image": "/img/club/6/HolyGoat_PeruvianChocolateStout_k_ca48b785-126c-436d-a105-e5902b56c4d2.png",
+                "name": "Peruvian Chocolate Stout",
+                "brewery": "Holy Goat Brewing",
+                "type": "Stout",
+                "abv": 5.8,
+                "volume": "44cl",
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+                "summary": "Crafted with the finest ingredients, Holy Goat's Peruvian Chocolate Stout expertly showcases the bold flavors of single origin organic cacao from the Marañón Canyon in Northern Peru. Through a careful combination of roasted chocolate malts, crystal malts, golden naked oats, and Golden Promise malt, this stout delivers a distinct nutty sweetness that harmoniously blends with woody nuances and natural cacao aromatics. At 5.8% alcohol, it's the perfect balance of flavor and strength."
+            }
+        ]
+    },
+    {
+        "title": "Round 7",
+        "date": "2024-11-08",
+        "beer": [
+            {
+                "url": "https://www.kihoskh.dk/collections/christmas-beers/products/brouwerij-corsendonk-corsendonk-christmas-ale",
+                "name": "Corsendonk Christmas Ale",
+                "brewery": "Corsendonk",
+                "summary": "This typical deep red-brown end-of-year beer was made from roasted special malts, the finest hops and selected yeasts and seasoned with a hint of coriander. Corsendonk Christmas gives the best of what a Christmas beer can give, a round balanced taste with a dry and refined adonk.",
+                "image": "/img/club/7/Corsendonk_Christmas_k.png.webp",
+                "abv": 8.1,
+                "country": "Belgium 🇧🇪",
+                "type": "Belgian Winter Ale",
+                "volume": "33 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/collections/sours/products/bianca-non-alcoholic-raspberry-peach-marshmallow-lassi-gose",
+                "name": "Bianca Non-Alcoholic Raspberry Peach Marshmallow Lassi Gose",
+                "brewery": "Omnipollo",
+                "summary": "Explore the bold flavors of Bianca Non-Alcoholic Raspberry Peach Marshmallow Lassi Gose by Omnipollo, a refreshing Sour beer with just 0.3% ABV. This unique version remains true to the iconic Bianca series with its globally-sourced fruit notes. Experience the distinctive taste of Bianca without the usual alcohol content, perfect for any occasion. Its vibrant beetroot-like appearance is sure to catch attention, while the combination of marshmallows, peaches, and raspberries creates a well-balanced flavor. The addition of salt provides the final touch, making Bianca Non-Alcoholic Raspberry Peach Marshmallow Lassi Gose a must-try for any beer enthusiast.",
+                "image": "/img/club/7/Omnipolloo_BiancaNonAlcoStrawberryPeachMarshmallow_k.png.webp",
+                "abv": 0.3,
+                "country": "Sweden 🇸🇪",
+                "type": "Non Alcoholic Sour",
+                "volume": "33 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/products/freak-wave-ipa",
+                "name": "Freak Wave IPA",
+                "brewery": "Gamma Brewing",
+                "summary": "Gamma's Freak Wave IPA, featuring a blend of Cashmere, Mosaic, and Citra hops, with Pilsner, Oat, and Carapils malts, is fermented with WLP066 yeast, resulting in a complex flavor profile with a crisp, light finish. An ideal choice for those searching for a reliable Hop Juice hit. A well-balanced and refreshing beer that packs citrus and stone fruit flavors. Perfect for hop heads and casual drinkers alike.",
+                "image": "/img/club/7/Gamma_FreakWave_k_0fedb90f-c567-4691-8a41-bcd343fdbd67.png.webp",
+                "abv": 6.5,
+                "country": "Denmark 🇩🇰",
+                "type": "IPA",
+                "volume": "44 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/products/donut-series-2-0-boston-cream-custard-filing-with-toffee-drizzle-pastry-stout",
+                "name": "Donut Series 2.0 Boston Cream Custard Filing With Toffee Drizzle Pastry Stout",
+                "brewery": "Amundsen Brewery",
+                "summary": "Elevate your taste experience with the \"DONUT SERIES 2.0 Boston Cream Custard Filling with Toffee Drizzle.\" This imperial pastry stout, boasting an impressive 11.5% ABV, is a triumph of flavor and creativity from Amundsen Brewery. Indulge in the velvety richness of boston cream custard filling, skillfully infused with the allure of toffee drizzle. With each sip, you'll be transported to a world of delectable confections, where layers of flavor intertwine in harmonious delight.",
+                "image": "/img/club/7/Amundsen_Donut-Boston_k.png.webp",
+                "abv": 11.5,
+                "country": "Norway 🇳🇴",
+                "type": "Pastry Stout",
+                "volume": "44 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/collections/pale-ale/products/fort-point-pale-ale",
+                "name": "Fort Point Pale Ale",
+                "brewery": "Trillium Brewing Company",
+                "summary": "Fort Point Pale Ale is a top choice for the discerning beer drinker. Its light, crisp malt character is enhanced by an abundance of hop aromatics and flavors from Citra and Columbus. The fragrant nose boasts fresh citrus, tropical fruit, and peach notes while bold flavors of pineapple and mango mingle with dank hints of zesty citrus and fresh pine needles. This American pale ale also offers a smooth mouthfeel, mild bitterness, and dry finish, making it the perfect daily-drinking option. And with a 6.6% alcohol content, it's a great choice for any occasion.",
+                "image": "/img/club/7/Trillium_FortPoint_k.png.webp",
+                "abv": 6.6,
+                "country": "USA 🇺🇸",
+                "type": "Pale Ale",
+                "volume": "44 CL"
+            },
+            {
+                "url": "https://untappd.com/b/brouwerij-st-bernardus-pater-6/221",
+                "name": "Pater 6",
+                "brewery": "Brouwerij St.Bernardus",
+                "summary": "St.Bernardus Pater 6 is brewed according to the classic Dubbel style with a recipe that dates back to 1946. The name of this beer has become a reference for its style, and it is commonly referred to as ‘een Paterke' in Belgium, which is a Dutch nickname for a monk.\n\nSt.Bernardus Pater 6 is a chestnut-brown, dark beer with a creamy head. Impressions of hazelnut and mocha lie at the basis of the mouth feel, which flows into a playful duel between the mild taste of dark candy sugar and a slightly toasted but dry grain character. Plenty of apple and pear aromas make their presence felt all the way to the slightly bitter aftertaste.",
+                "image": "/img/club/7/St. Bernardus Pater 33cl.webp",
+                "abv": 6.7,
+                "country": "Belgium 🇧🇪",
+                "type": "Belgian Dubbel",
+                "volume": "33 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/collections/christmas-beers/products/risalamande-danish-rice-pudding-sour-x-vaeskebalancen",
+                "name": "Risalamande ‘Danish Rice Pudding’ Sour",
+                "brewery": "Vault City Brewing X Væskebalancen",
+                "summary": "Experience the rich and tangy flavors of Vault City's newest dessert sour inspired by traditional Danish Rice Pudding. This expertly crafted, mixed fermentation beer features the perfect blend of sweet cherries, smooth vanilla, and flaked rice, with subtle hints of almond. Collaboratively made with Denmark's Væskebalancen, this 6% ABV seasonal delicacy is a must-try for beer enthusiasts. Don't miss out on this one-of-a-kind, deliciously unique sour beer.",
+                "image": "/img/club/7/VaultCity_Risalamande_k.png.webp",
+                "abv": 6,
+                "country": "Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 x Denmark 🇩🇰",
+                "type": "Pastry Sour",
+                "volume": "44 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/collections/ipas-dipa-more/products/spikes-west-coast-ipa",
+                "name": "Spikes West Coast IPA",
+                "brewery": "Põhjala x Garage Beer Co.",
+                "summary": "Discover the ultimate taste of the West Coast with Spikes West Coast IPA, a joint effort from Põhjala and Garage Beer Co. This refined brew showcases a potent combination of Nelson Sauvin, Citra, and HBC 522 hops, meticulously brewed for a perfectly balanced and invigorating beer. With a 6.4% alcohol content, this IPA offers a distinct West Coast experience, thanks to its sharp bitterness and rich amber hue.",
+                "image": "/img/club/7/Pohjala_Spike_k_f085a0f6-5140-4840-9c2b-26ea1d3dab44.png.webp",
+                "abv": 6.4,
+                "country": "Estonia 🇪🇪 x USA 🇺🇸",
+                "type": "West Coast IPA",
+                "volume": "44 CL"
+            },
+            {
+                "url": "https://www.kihoskh.dk/collections/sale/products/back-to-black-oloroso-barrel-aged-stout",
+                "name": "Back to Black Oloroso Barrel Aged Stout",
+                "brewery": "Cierzo",
+                "summary": "Experience the rich complexity of our beloved classic, Back To Black, now aged in Oloroso barrels. The original coffee and cocoa notes blend with the liquorice flavors of Chinook hops, enhanced by the depth and nuances of this exceptional Jerez wine.",
+                "image": "/img/club/7/Cierzo_BacktoBlack.png.webp",
+                "abv": 9,
+                "country": "Spain 🇪🇸",
+                "type": "Imperial Stout",
+                "volume": "75 CL"
+            }
+        ]
+    }
+]

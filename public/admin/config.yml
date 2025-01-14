@@ -1,0 +1,40 @@
+backend:
+  name: github
+  repo: ateliercw/beer-club
+  branch: test
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+site_url: https://beerclub.atelierclockwork.net
+
+collections:
+  - label: "Content"
+    name: "content"
+    files:
+      - label: Events
+        name: event
+        file: server/events.json
+        widget: list
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+          - label: "Event Date"
+            name: "date"
+            widget: "datetime"
+            date_format: "L"
+          - label: "Beers"
+            label_singular: "Beer"
+            name: "beer"
+            widget: "list"
+            media_folder: "/static/images/uploads/event/{{date}}"
+            public_folder: "/images/uploads/event/{{date}}"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: URL, name: url, widget: string }
+              - { label: Brewery, name: brewery, widget: string }
+              - { label: Image, name: image, widget: image }
+              - { label: Summary, name: summary, widget: text }
+              - { label: ABV, name: abv, widget: number }
+              - { label: Country, name: country, widget: string }
+              - { label: Type, name: type, widget: string }
+              - { label: Volume, name: volume, widget: string }
