@@ -22,27 +22,25 @@ useHead({
   bodyAttrs: {
     class: "group bg-amber-100 text-amber-800",
   },
-})
+});
 
-const { isSupported, isActive, forceRequest, request, release } = useWakeLock()
+import NoSleep from "nosleep.js";
 
 const onFullScreen = (event: Event) => {
   if (document.fullscreenElement) {
-    document.documentElement.getElementsByTagName("body")[0].classList.add("is-fullscreen")
-    request("screen").then((result) => {
-      console.log(result)
-    })
+    document.documentElement.getElementsByTagName("body")[0].classList.add("is-fullscreen");
   } else {
-    document.documentElement.getElementsByTagName("body")[0].classList.remove("is-fullscreen")
-    release()
+    document.documentElement.getElementsByTagName("body")[0].classList.remove("is-fullscreen");
+    const noSleep = new NoSleep();
+    noSleep.disable();
   }
-}
+};
 
 onMounted(() => {
-  document.addEventListener("fullscreenchange", onFullScreen)
-})
+  document.addEventListener("fullscreenchange", onFullScreen);
+});
 
 onUnmounted(() => {
-  document.removeEventListener("fullscreenchange", onFullScreen)
-})
+  document.removeEventListener("fullscreenchange", onFullScreen);
+});
 </script>

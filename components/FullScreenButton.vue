@@ -6,14 +6,19 @@
 </template>
 
 <script setup lang="ts">
-const supported = useFullscreen()
+import NoSleep from "nosleep.js";
+const supported = useFullscreen();
+
 const requestFullScreen = async () => {
-  const element = document.getElementsByTagName("div")[0]
+  const element = document.getElementsByTagName("div")[0];
   // Supports most browsers and their versions.
-  const requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen
+  const requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
 
   if (requestMethod) {
-    requestMethod.call(element)
+    requestMethod.call(element);
   }
-}
+
+  const noSleep = new NoSleep();
+  noSleep.enable();
+};
 </script>
